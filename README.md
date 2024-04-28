@@ -1,1 +1,1 @@
-A Quick start application for RX Java.
+A Quickstart application for RX Java.
